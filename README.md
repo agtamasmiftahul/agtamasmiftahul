@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bappeda Sumenep**
 
-- 🌱 I’m currently learning **Laravel, Inertia, Vue, and Tailwind CSS**
+- 🌱 I’m currently learning **Laravel, Javascript, and Tailwind CSS**
 
 - 💬 Ask me about **Laravel**
 
